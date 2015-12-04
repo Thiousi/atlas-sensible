@@ -1,0 +1,5 @@
+Title: Événement
+
+----
+
+Text: Une annonce d'un évènement à venir, un point ponctuel à la fois dans l'espace et dans le temps

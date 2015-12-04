@@ -1,0 +1,5 @@
+Title: Points
+
+----
+
+Text: Les points sont des prévisions ou des enregistrements situés sur un point bien précis de la carte
